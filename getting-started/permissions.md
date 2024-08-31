@@ -1,5 +1,5 @@
 ---
-description: List of permissions within ezEdits
+description: ezEdits 권한(Permissions) 목록
 ---
 
 # Permissions
@@ -9,40 +9,40 @@ description: List of permissions within ezEdits
 <table>
   <thead>
     <tr>
-      <th width="274">Permission</th>
-      <th width="327">Description</th>
+      <th width="274">권한 (Permission)</th>
+      <th width="327">설명</th>
       <th>Permpack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>ezedits.general.wiki</td>
-      <td><strong>/ezedits wiki</strong><br>Prints the link for this wiki in chat</td>
+      <td><strong>/ezedits wiki</strong><br>이 위키의 링크를 채팅에 출력합니다</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.general.info</td>
-      <td><strong>/ezedits info</strong><br>Prints basic plugin info in chat</td>
+      <td><strong>/ezedits info</strong><br>채팅에 기본 플러그인 정보를 출력합니다</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.admin.reload</td>
-      <td><strong>/ezedits reload</strong><br>Reloads the config</td>
+      <td><strong>/ezedits reload</strong><br>구성을 다시 로드합니다</td>
       <td>Admin</td>
     </tr>
     <tr>
       <td>ezedits.brush.gradient</td>
-      <td><strong>//ezbr gradient</strong><br>Binds the gradient brush to an item</td>
+      <td><strong>//ezbr gradient</strong><br>그래디언트 브러시를 아이템에 고정합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.brush.gradientstroke</td>
-      <td><strong>//ezbr gradientstroke</strong><br>Binds the gradient stroke brush to an item</td>
+      <td><strong>//ezbr gradientstroke</strong><br>그래디언트 스트로크 브러시를 아이템에 고정합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.brush.paletteshift</td>
-      <td><strong>//ezbr paletteshift</strong><br>Binds the palette shift brush to an item</td>
+      <td><strong>//ezbr paletteshift</strong><br>팔레트 이동 브러시를 아이템에 고정합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>

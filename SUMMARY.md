@@ -1,33 +1,33 @@
-# Table of contents
+# 목차
 
-* [ezEdits Docs](README.md)
+* [ezEdits 문서](README.md)
 
-## Getting Started
+## 시작하기
 
-* [Installing](getting-started/installing.md)
-* [Permissions](getting-started/permissions.md)
+* [설치](getting-started/installing.md)
+* [권한](getting-started/permissions.md)
 
-## Palettes
+## 팔레트 (Palettes)
 
 * [Palettes Explained](palettes/palettes-explained.md)
 * [Palette Commands](palettes/palette-commands.md)
 
-## Noise
+## 노이즈 (Noise)
 
 * [Noise Explained](noise/noise-explained.md)
 * [Noise Commands](noise/noise-commands.md)
 
-## Masks & Patterns
+## 마스크 & 패턴 (Masks & Patterns)
 
-* [Masks](masks-and-patterns/masks.md)
-* [Patterns](masks-and-patterns/patterns.md)
+* [마스크 (Masks)](masks-and-patterns/masks.md)
+* [패턴 (Patterns)](masks-and-patterns/patterns.md)
 
-## Brushes & Tools
+## 브러쉬 & 도구 (Brushes & Tools)
 
-* [Brushes](brushes-and-tools/brushes.md)
-* [Superwand](brushes-and-tools/superwand.md)
+* [브러쉬 (Brushes)](brushes-and-tools/brushes.md)
+* [슈퍼 막대기 (Superwand)](brushes-and-tools/superwand.md)
 
-## Commands
+## 명령어
 
 * [Deformation](commands/deformation.md)
 * [Flowfields](commands/flowfields.md)
