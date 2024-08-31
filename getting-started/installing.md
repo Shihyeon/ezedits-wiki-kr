@@ -1,6 +1,6 @@
 # 설치
 
-ezEdits은 다른 플러그인처럼 설치하지만, WorldEdit 또는 FastAsyncWorldEdit가 설치되어 있어야 합니다. (둘 다가 아닌 하나만)
+ezEdits은 다른 플러그인처럼 설치하지만, WorldEdit 또는 FastAsyncWorldEdit이 설치되어 있어야 합니다. (둘 다가 아닌 하나만)
 
 * [WorldEdit](https://modrinth.com/plugin/worldedit)
 * [FastAsyncWorldEdit](https://www.spigotmc.org/resources/fastasyncworldedit.13932/)
@@ -10,7 +10,7 @@ ezEdits은 다른 플러그인처럼 설치하지만, WorldEdit 또는 FastAsync
 
 
 
-Paper는 지원 대상 서버 소프트웨어이며, Paper가 아닌 포크를 사용하는 경우 호환성 문제가 발생할 수 있습니다.
+Paper가 지원 대상 서버 소프트웨어이며, Paper가 아닌 포크를 사용하는 경우 호환성 문제가 발생할 수 있습니다.
 
 
 
