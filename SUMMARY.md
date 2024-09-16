@@ -27,7 +27,7 @@
 * [브러쉬 (Brushes)](brushes-and-tools/brushes.md)
 * [슈퍼 막대기 (Superwand)](brushes-and-tools/superwand.md)
 
-## 명령어
+## 명령어 (Commands)
 
 * [Deformation](commands/deformation.md)
 * [Flowfields](commands/flowfields.md)

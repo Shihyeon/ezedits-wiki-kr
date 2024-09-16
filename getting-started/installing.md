@@ -14,9 +14,9 @@ Paper가 지원 대상 서버 소프트웨어이며, Paper가 아닌 포크를 �
 
 
 
-**Patreon/Ko-Fi에서 저희를 후원하시면 Discord에서 .jar 파일을 받으실 수 있습니다.**
+**Patreon/Ko-Fi에서 저희를 후원하시면 디스코드(Discord)에서 .jar 파일을 받으실 수 있습니다.**
 
-- 디스코드에서 Silver/Gold 등급을 받으면 Supporter 채널에서 `/download`를 실행하여 .jar 파일을 받으세요.
+- 디스코드(Discord)에서 Silver/Gold 등급을 받으면 Supporter 채널에서 `/download`를 실행하여 .jar 파일을 받으세요.
 
 
 

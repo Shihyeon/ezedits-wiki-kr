@@ -47,67 +47,67 @@ description: ezEdits 권한(Permissions) 목록
     </tr>
     <tr>
       <td>ezedits.debug</td>
-      <td><strong>//debugez ...</strong><br>Various debug commands. <br>Not required for normal use</td>
+      <td><strong>//debugez ...</strong><br>다양한 디버그 명령어. <br>일반적으로 사용하지 않습니다.</td>
       <td>Admin</td>
     </tr>
     <tr>
       <td>ezedits.debug.loadingbar</td>
-      <td><strong>//debugez clearLoadingBars</strong><br>Clears any active progress bar on screen.</td>
+      <td><strong>//debugez clearLoadingBars</strong><br>화면에서 로딩줄을 지웁니다.</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.deform.hexagonalize</td>
-      <td><strong>//ezdeform hexagonalize</strong><br>Deforms the blocks in selection into hexagonal pillars</td>
+      <td><strong>//ezdeform hexagonalize</strong><br>선택한 블록을 육각형 기둥으로 변형합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.deform.noise</td>
-      <td><strong>//ezdeform noise</strong><br>Deforms the blocks in selection based on a given noise</td>
+      <td><strong>//ezdeform noise</strong><br>주어진 노이즈에 따라 선택한 블록을 변형합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.deform.rotate</td>
-      <td><strong>//ezdeform rotate</strong><br>Rotates the blocks in selection</td>
+      <td><strong>//ezdeform rotate</strong><br>선택한 블록을 회전합니다.</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.deform.voronoialize</td>
-      <td><strong>//ezdeform voronoialize</strong><br>Deforms the blocks in a selection into voronoi cells</td>
+      <td><strong>//ezdeform voronoialize</strong><br>선택한 블록을 보로노이 셀로 변형합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.deform.voronoialize2</td>
-      <td><strong>//ezdeform voronoialize2</strong><br>Deforms the blocks in a selection into voronoi cells approximating the input shapes</td>
+      <td><strong>//ezdeform voronoialize2</strong><br>선택한 블록을 입력 모양에 근접한 보로노이 셀로 변형합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.deform.voxelize</td>
-      <td><strong>//ezdeform voxelize</strong><br>Deforms the blocks in a selection into voxels</td>
+      <td><strong>//ezdeform voxelize</strong><br>선택한 블록을 복셀로 변형합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.flow.flowfield</td>
-      <td><strong>//ezflowfield</strong><br>Generates a flowfield within a selection</td>
+      <td><strong>//ezflowfield</strong><br>선택 영역 내에서 flowfield를 생성합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.flow.flowline</td>
-      <td><strong>//ezflowline</strong><br>Creates a single flow line from the player position</td>
+      <td><strong>//ezflowline</strong><br>플레이어 위치에서 단일 flow line을 생성합니다.</td>
       <td>Intermediate</td>
     </tr>
     <tr>
       <td>ezedits.gen.cone</td>
-      <td><strong>//ezshapes cone</strong><br>Generates a Cone at the player's position</td>
+      <td><strong>//ezshapes cone</strong><br>플레이어 위치에 원뿔을 생성합니다.</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.gen.polydome</td>
-      <td><strong>//ezshapes polydome</strong><br>Generates a Polydome at the player's position</td>
+      <td><strong>//ezshapes polydome</strong><br>플레이어 위치에 폴리돔을 생성합니다</td>
       <td>Basic</td>
     </tr>
     <tr>
       <td>ezedits.gen.polygon</td>
-      <td><strong>//ezshapes polygon</strong><br>Generates a Polygon at the player's position</td>
+      <td><strong>//ezshapes polygon</strong><br>플레이어 위치에 다각형을 생성합니다</td>
       <td>Basic</td>
     </tr>
     <tr>
